@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Nepal",
+      "image": "https://flagpedia.net/data/flags/w1160/np.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "United States",
+      "image": "https://flagpedia.net/data/flags/w1160/us.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Armenia",
+      "image": "https://flagpedia.net/data/flags/w1160/am.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Costa Rica",
+      "image": "https://flagpedia.net/data/flags/w1160/cr.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Canada",
+      "image": "https://flagpedia.net/data/flags/w1160/ca.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "South Korea",
+      "image": "https://flagpedia.net/data/flags/w1160/kr.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Bosnia and Herzegovina",
+      "image": "https://flagpedia.net/data/flags/w1160/ba.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "People's Republic of China",
+      "image": "https://flagpedia.net/data/flags/w1160/cn.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Sweden",
+      "image": "https://flagpedia.net/data/flags/w1160/se.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Kenya",
+      "image": "https://flagpedia.net/data/flags/w1160/ke.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Mexico",
+      "image": "https://flagpedia.net/data/flags/w1160/mx.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Australia",
+      "image": "https://flagpedia.net/data/flags/w1160/au.png",
+      "count": 0
+    }
+  ]
