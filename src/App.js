@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Flag from "./components/Card/Flag";
+import Flag from "./components/Flag/Flag";
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 import flags from "./flags.json";
