@@ -1,68 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Click me react game
+This react game is to challange a player to memorize the 12 distinct country flags he/she already clicked. If a player is clicking each flag once, he/she will achieve the highest score. The flags suffele automatically after clicking each one. If player clicks the same flag twice, game will be over.
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+![Click me react game](./screenshots/clickMeReactGame.jpeg)
+![Click me react game](./screenshots/clickMeReactGameOver.jpeg)
 
-### `npm start`
+## Objectives of this project
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This app is developed as part of the introductory React mandatory homework assignment. 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Techonologies used
 
-### `npm test`
+* React 
+* Node.js 
+* npm for project setup, build and execution.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Game Link](https://clickmereactgame.herokuapp.com/)
 
-### `npm run build`
+## Environment Setup
+1) Download and Install the latest version of [Node.js & npm](https://nodejs.org/en/download/) on you computer.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* You may clone the GitHub (https://github.com/ChetBudhathoki/clickmereactgame) repo into your local machine.
+* Execute following in the Terminal:
+* cd into the directory clickmereactgame.
+* install the dependency packages into your machine by running command: `npm install`
+* Start the app by executing this command: `npm start` 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Questions?
 
-### `npm run eject`
+Any questions and/or concerns maybe directed to okChet@gmail.com
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Author
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+**Chet Budhathoki** - [GitHub Profile](https://github.com/ChetBudhathoki)
